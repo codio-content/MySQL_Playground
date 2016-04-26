@@ -1,5 +1,5 @@
 
-# MySQL Introduction
+# MySQL Playground
 
 To contribute to this Codio Project you should be familiar with [Git](https://git-scm.com/docs) and the [GitHub workflow](https://guides.github.com/introduction/flow/):
 

@@ -6,7 +6,7 @@ You or your teacher may want to create some of your own challenge or test code. 
 
 ## Contributing
 
-See CONTRIBUTING.md for instructions on how to contribute to this project.
+See [CONTRIBUTING.md](https://github.com/codio-content/MySQL_Playground/blob/master/CONTRIBUTING.md) for instructions on how to contribute to this project.
 
 ## Using the `mysql` client
 Open up a terminal window from the **Tools->Terminal** menu.
