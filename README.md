@@ -1,12 +1,12 @@
-# MySQL Playground
+**Create and run your own SQL files**
 
 This Unit is not a teaching Unit. It's main purpose is to allow students to add and run their own `mysql` code.
 
-You or your teacher may want to create some of your own challenge or test code. Just add some files and run!
+- The public GitHub repository for this unit can be found at [https://github.com/codio-content/MySQL_Playground](https://github.com/codio-content/MySQL_Playground).
 
-## Contributing
+- For more information on other units in the MySQL course go to [Course-:-MySQL](https://github.com/codio-content/Information/wiki/Course-:-MySQL)
 
-See [CONTRIBUTING.md](https://github.com/codio-content/MySQL_Playground/blob/master/CONTRIBUTING.md) for instructions on how to contribute to this project.
+- More information on other Codio Courses, how you can collaborate and other useful information can be found in our [Information Wiki](https://github.com/codio-content/Information/wiki).
 
 ## Using the `mysql` client
 Open up a terminal window from the **Tools->Terminal** menu.
@@ -60,3 +60,15 @@ To create a new SQL file, please follow these steps.
 
 ## Advanced
 If you want to have multiple panels open, you can add and close coding panels from the **View->Panels** menu. 
+
+**License**
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Codio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
