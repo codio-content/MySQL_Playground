@@ -1,6 +1,6 @@
 **Create and run your own SQL files**
 
-This Unit is not a teaching Unit. It's main purpose is to allow students to add and run their own `mysql` code.
+This Unit is not a teaching Unit. Its main purpose is to allow students to add and run their own `mysql` code.
 
 - The public GitHub repository for this unit can be found at [https://github.com/codio-content/MySQL_Playground](https://github.com/codio-content/MySQL_Playground).
 
@@ -50,13 +50,13 @@ mysql> source source.sql
 Or you can create as many `*.sql` files as you want and `source` them as well.
 
 ### Creating a new SQL file
-To create a new SQL file, please follow these steps.
+To create a new SQL file, please follow these steps:
 
 1. Select the 'File' menu item at the top of this page.
 1. Select 'New File' from the drop down menu.
 1. In the dialog that appears, locate the 'File Name' field.
 1. Enter 'filename.sql' in this field, where 'filename' is a name you choose for your file. 
-1. Press 'OK' and a new window will appear where you can start coding.
+1. Click 'OK' and a new window will appear where you can start coding.
 
 ### Advanced
 If you want to have multiple panels open, you can add and close coding panels from the **View->Panels** menu. 
