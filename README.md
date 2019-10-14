@@ -48,10 +48,10 @@ WHERE some_column=some_value;
 The file tree is enabled as well, here, you can edit the `source.sql` file to add SQL statements and `source` it like this: 
 
 ```
-mysql> source source.sql
+MariaDB [(none)]> source source.sql
 ```
 
-Or you can create as many `*.sql` files as you want and `source` them as well.
+Or you can create as many `*.sql` files as you want and `source` them as well. The full path to the .sql file should be used.
 
 ### Creating a new SQL file
 To create a new SQL file, please follow these steps.
