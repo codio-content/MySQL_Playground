@@ -9,9 +9,13 @@ This Unit is not a teaching Unit. It's main purpose is to allow students to add 
 - More information on other Codio Courses, how you can collaborate and other useful information can be found in our [Information Wiki](https://github.com/codio-content/Information/wiki).
 
 ## Using the `mysql` client
+
+[MariaDB](https://mariadb.com/) is used as the client in this course. The command line prompt will indicate this (along with the database in use) but it operates exactly the same as the more commonly seen clients
+ 
+ 
 Open up a terminal window from the **Tools->Terminal** menu.
 
-Once the terminal window is open, just type `mysql` into the command line and a new `mysql>` client will start. 
+Once the terminal window is open, just type `mysql` into the command line and a new `MariaDB [(none)]>` client will start. 
 
 ### Running `mysql` statements
 The `mysql` client is enabled with all the database and table editing and reading privileges so you can experiment as much as you want.
